@@ -1,4 +1,4 @@
-# Microphone/Camera Access Application
+# Chess Game API
 
 This is a Node.js application that provides a set of API endpoints to interact with a Smart Contract. The main functionality of this application is to allow users to check their BNB balance, get the allowance for a spender account, and set the approval for a spender account to spend a certain amount of LLG tokens on their behalf.
 
